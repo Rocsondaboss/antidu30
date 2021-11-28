@@ -44,7 +44,7 @@
 
         <p>Came from April 28, 2016 GMA News report, a man was dubbed as "Pinoy Battousai" after he used bolo to attack his friend. According to the report, the incident was captured on CCTV, where it shows the man named Chris Bautista taking care of his grandson, unaware that the imminent danger is coming for him. Seconds later, another man named Valentino Abiertas approaches with a bolo and attacks him. The children around them witness the incident in shock.</p>
 
-        <p>The two are later brought to the Barangay Captain's office. Bautista luckily did not injured in the attack, thanks for the "guardian angel" at his back. Abiertas explains that he used the bolo in opposite way based on his inspiration from Battousai (another name for Himura Kenshin), a Japanese character from Rurouni Kenshin. The motive for the attack was money issues. The two eventually reconciled.</p>
+        <p>The two are later brought to the Barangay Captain's office. Bautista luckily did not injured in the attack, thanks for the "guardian angel" at his back. Abiertas explains that he used the bolo in opposite way based on his inspiration from Battousai (another name for Himura Kenshin), a Japanese character from Rurouni Kenshin. The motive for the attack was money issues. The two were seen reconciling each other.</p>
 
         <h2>5. "Kademonyohan ng aking kamay"</h2>
         <center><iframe width="560" height="315" src="https://www.youtube.com/embed/iVc5VTqA5e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
