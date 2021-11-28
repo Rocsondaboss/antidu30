@@ -35,9 +35,9 @@
         <p>This drunken man named Jun Calumpiano was arrested on June 7, 2016 after he reportedly fired his gun at the neighborhood. At the detention, he challenged then-president-elect Rodrigo Duterte to have a "gunfight."</p>
 
         <h2>3. Imported ang tabas ng dila</h2>
-        <center><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchrishalyn.telic.31%2Fposts%2F553037459104110&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></center>
+        <center><iframe width="560" height="315" src="https://www.youtube.com/embed/6f-I7jvhQO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
         <p>This June 2003 GMA News's <i>Saksi</i> report said that the man named Romano Matiyo was arrested for allegedly stealing the tricycle. At the police station, Matiyo, speaking in fluent English, claims that he is not stealing the tricycle but then deviates the question by talking about mathematical problems. Because the man talking weirdly, the police suspected that he was under the influence of drugs and his thoughts may have been warped.</p>
-        <p>That archived news video was originally available on YouTube but it was nowhere to be found (possibly it was taken down due to copyright infrigement from GMA News). However, the video is also available on TikTok.
+        
         
         <h2>4. Pinoy Battousai</h2>
         <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ppioEEvJj-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -49,9 +49,6 @@
         <h2>5. "Kademonyohan ng aking kamay"</h2>
         <center><iframe width="560" height="315" src="https://www.youtube.com/embed/iVc5VTqA5e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
         <p>A man Edwardo Valencio was arrested by the authorities for touching the two girls inside the jeepney. While being interviewed on his cell, he blames his "demonic" hand for the act. The man also admitted that he possessed illegal drugs. He was charged for "acts of lasciviousness."</p>
-
-        
-        
         </div>
 
       </div>
